@@ -5,7 +5,7 @@
         "dev": "vite",
         "build": "vite build",
         "predeploy": "vite build",
-        "deploy": "gh-pages -d public/build"
+        "deploy": "gh-pages -d resources/js"
     },
     "devDependencies": {
         "@headlessui/react": "^2.0.0",
